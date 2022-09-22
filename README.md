@@ -1,2 +1,3 @@
 # ptu5_intro_kursas
-ptu 5 intro kursas
+
+cia rasite visa su kursu susijusia medziaga, uzdavinius ir ju sprendimus
